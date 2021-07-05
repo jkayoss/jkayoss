@@ -8,4 +8,4 @@ I'm a student of {UI Designer} and {Frontend development} with considerable know
 I'm also a student of Industrial Engineering, not about development, but should be, right? 
 
 - **Courses** - Finished "Responsive Web Design" by freeCodeCamp and "Advanced UI Design" by Origamid". Actually studying "Complete Javascript ES6" course also by Origamid.
-- [Portfolio](https://jhonatankayo.tech) 💻 - Working on it.
+- My [Portfolio](https://jhonatankayo.tech) 💻 - Working on it, developed with ReactJS.
